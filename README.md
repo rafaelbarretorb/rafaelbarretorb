@@ -1,9 +1,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelbarretorb&show_icons=true&count_private=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats-sigma-sepia.vercel.app/api/top-langs/?username=rafaelbarretorb&hide=html,jupyter%20notebook,javascript,java,matlab&layout=compact&langs_count=8)]
-(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-sepia.vercel.app/api/top-langs/?username=rafaelbarretorb&hide=html,jupyter%20notebook,javascript,java,matlab&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
+_Credits to [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 <!--
 **rafaelbarretorb/rafaelbarretorb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
