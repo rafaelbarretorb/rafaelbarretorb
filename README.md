@@ -1,6 +1,16 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelbarretorb&show_icons=true&count_private=true&theme=tokyonight)
+### Hello, I'm Rafael Barreto
 
-[![Top Langs](https://github-readme-stats-sigma-sepia.vercel.app/api/top-langs/?username=rafaelbarretorb&hide=html,jupyter%20notebook,javascript,java,matlab&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+Engineer and Software Developer for autonomous systems.
+
+- I’m currently working at [BIR, SENAI CIMATEC](https://github.com/Brazilian-Institute-of-Robotics)
+-  Main interests:
+    - Navigation and Perception for mobile robots
+    -  Linux
+    -  Embedded Systems
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?&count_private=true&username=rafaelbarretorb&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats-sigma-sepia.vercel.app/api/top-langs/?username=rafaelbarretorb&hide=html,jupyter%20notebook,javascript,java,cmake,makefile,matlab&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 _Credits to [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 <!--
