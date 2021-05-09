@@ -5,8 +5,9 @@ Engineer and Software Developer for autonomous systems.
 - I’m currently working at [BIR, SENAI CIMATEC](https://github.com/Brazilian-Institute-of-Robotics)
 -  Main interests:
     - Navigation and Perception for mobile robots
-    -  Linux
-    -  Embedded Systems
+    - Machine Learning and Computer Vision
+    - Linux
+    - Embedded Systems
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?&count_private=true&username=rafaelbarretorb&show_icons=true&theme=tokyonight)
 
