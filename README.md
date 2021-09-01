@@ -6,8 +6,7 @@ Engineer and Software Developer for autonomous systems.
 -  Main interests:
     - Navigation and Perception for mobile robots
     - Machine Learning and Computer Vision
-    - Linux
-    - Embedded Systems
+    - Embedded Systems and RTOS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?&count_private=true&username=rafaelbarretorb&show_icons=true&theme=tokyonight)
 
