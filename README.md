@@ -8,9 +8,13 @@ Engineer and Software Developer for autonomous systems.
     - Machine Learning and Computer Vision
     - Embedded Systems and RTOS
 
-![Anurag's GitHub stats](https://github-readme-stats-mu-hazel.vercel.app/api?&count_private=true&username=rafaelbarretorb&show_icons=true&theme=tokyonight)
+<!--![Anurag's GitHub stats](https://github-readme-stats-mu-hazel.vercel.app/api?&count_private=true&username=rafaelbarretorb&show_icons=true&theme=tokyonight)-->
 
-[![Top Langs](https://github-readme-stats-mu-hazel.vercel.app/api/top-langs/?username=rafaelbarretorb&hide=html,jupyter%20notebook,javascript,java,cmake,makefile,matlab&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats-tan-six.vercel.app/api?count_private=true&username=rafaelbarretorb&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats-tan-six.vercel.app/api/top-langs/?username=rafaelbarretorb&&exclude_repo=github-readme-stats&hide=html,jupyter%20notebook,javascript,java,cmake,makefile,matlab&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Top Langs](https://github-readme-stats-mu-hazel.vercel.app/api/top-langs/?username=rafaelbarretorb&hide=html,jupyter%20notebook,javascript,java,cmake,makefile,matlab&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)-->
 
 _Credits to [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
 <!--
